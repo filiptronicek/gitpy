@@ -1,4 +1,4 @@
-# gitpy
+# Gitpy
  A Python wrapper for git
 
 This tool can be used for:
