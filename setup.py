@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="gitpy", # Replace with your own username
-    version="0.0.3",
+    version="0.0.4",
     author="Filip Troníček",
     author_email="filip@trnck.dev",
     description="A Python wrapper for git",
