@@ -1,6 +1,6 @@
 from os import system
 
-illegal = ["..","~","^",":","*","?", "\\"] # https://stackoverflow.com/a/3651867/10199319
+illegal = ["~","^",":","*","?", "\\"] # https://stackoverflow.com/a/3651867/10199319
 
 def createBranch(name, checkout=True):
     for c in name:
